@@ -18,7 +18,9 @@ I implemented binary search to efficiently perform searching.
 Time complexity is O(log(n)). This is standard approach.
 
 ## Task 4
-Json AST implementation
+Json Abstract Syntax Tree implementation. Json AST is a way of structuring a json document,
+so it's more readable from the perspective running a parsing script.
+I created complete set of classes representing the required types.
 
 ## Task 5
 Calculated directory size assuming that a directory can contain both files and another directories.
